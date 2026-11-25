@@ -1,6 +1,13 @@
 public class Node{
 
     //INFO OF A CONTACT
+
+
+
+    // FIXXXX it seems like we prob shouldnt make the ID based on index ****************************
+
+
+
     private int contactID; // this is the hashMap or hashTable index of where it resides, could be better maybe since need be unique, or just avoid dupes
     private String name; // person's name
     private String phoneNumber; // phone number including the () and - or not
